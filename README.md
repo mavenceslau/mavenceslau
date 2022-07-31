@@ -43,6 +43,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavenceslau&show_icons=true&locale=en&layout=compact" alt="mavenceslau" /></p>
 
+![Snake animation](https://github.com/mavenceslau/mavenceslau/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 
 - 👋 Hi, I’m Marcos Antonio Venceslau
