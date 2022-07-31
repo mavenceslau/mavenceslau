@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Data Science, Machine Learning, Power BI**
 
-- 💬 Me pergunte sobre **SQL Server, C#, manutenção de Computadores**
+- 💬 Me pergunte sobre **SQL Server, C#, Python**
 
 - 📫 Você pode me encontrar através do e-mail **mavenceslau@outlook.com**
 
