@@ -9,11 +9,11 @@
 
 - 📫 Você pode me encontrar através do e-mail **mavenceslau@outlook.com**.
 
-- 📄 Sobre minhas experiências [aqui](linkedin.com/in/mavenceslau).
+- 📄 Sobre minhas experiências [aqui](https://www.linkedin.com/in/mavenceslau).
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mavenceslau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-antônio-venceslau-89b58b31" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mavenceslau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-antônio-venceslau-89b58b31" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mavenceslau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mavenceslau" height="30" width="40" /></a>
 <a href="https://instagram.com/@mavenceslau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mavenceslau" height="30" width="40" /></a>
 </p>
