@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavenceslau&label=Profile%20views&color=0e75b6&style=flat" alt="mavenceslau" /> </p>
 
-- 🌱 Atualmente estou aprendendo **Data Science, Machine Learning, Power BI**.
+- 🌱 Atualmente estou aprendendo **Data Science, Machine Learning, Power BI e Spark**.
 
 - 💬 Me pergunte sobre **SQL Server, C#, Python**.
 
