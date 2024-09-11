@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Marcos Antonio Venceslau</h1>
-<h3 align="center">Apaixonado por tecnologia, games, música, HQ's e mangas.</h3>
+<h3 align="center">Apaixonado por tecnologia, games, música, HQ's e mangás.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavenceslau&label=Profile%20views&color=0e75b6&style=flat" alt="mavenceslau" /> </p>
 
