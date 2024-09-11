@@ -15,8 +15,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mavenceslau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-antônio-venceslau-89b58b31" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mavenceslau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mavenceslau" height="30" width="40" /></a>
+<!---
 <a href="https://instagram.com/@mavenceslau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mavenceslau" height="30" width="40" /></a>
 </p>
+--->
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> </a>
